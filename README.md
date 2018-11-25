@@ -1,2 +1,2 @@
-# Group-Chat
-Group Chat implementation in JAVA
+# Group Chat
+A group chat implementation in java using socket programming.
